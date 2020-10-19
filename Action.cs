@@ -174,7 +174,7 @@ public class SSActionManager : MonoBehaviour, ISSActionCallback                 
     }
 }
 
-public class MySceneActionManager : SSActionManager  //动作管理器
+public class MySceneActionManager : SSActionManager  //游戏管理器
 {
 
     private SSMoveToAction moveBoatToEndOrStart;     //移动船到结束岸，移动船到开始岸
